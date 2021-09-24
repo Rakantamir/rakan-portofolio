@@ -1,0 +1,19 @@
+.name {
+    background-color: aqua;
+}
+
+.name .head {
+    background-color: green;
+    /* max-width: 50%;
+    width: 75%;
+    max-height: 200px;
+    height: 300px; */
+    /* min-width: 75%;
+    width: 50%;
+    min-height: 300px;
+    height: 200px; */
+   /* typography */
+   font-size: 60px;
+   font-weight: 900;
+   line-height: 80px;
+}
